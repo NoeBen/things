@@ -57,13 +57,12 @@ while (i<mascotas.length) {
        // [1,1,-1] , 0
         // [] , 3
 
+        /////////////////////////////////// resultado.push (variable)
+
     let i = 0
     let number3 = ['1','2','3','4','5','6'];
     let number4= ['2'];
-        for (let i=0; i < number3.length; i++);
-            console.log (number3[i]);
-        if (number4>number3)
-            console.log (number3[i]);
+        
         
     let number1 = ['1000','2','100','1','200']
     let number2 = ['50']
@@ -71,4 +70,12 @@ while (i<mascotas.length) {
             console.log (number1[i]);
         if (number2<number1)
             console.log (number1[i])
-            
+        
+
+function adivinar (arrayL, num) {
+    let resultado = [];
+    for (let i=0; i < arrayL.length: i++) {
+        console.log ()
+    }
+    return resultado;
+} 
