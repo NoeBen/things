@@ -42,7 +42,7 @@ for (let i=0; 1 < mascotas.length; i++) {
 }
 
 // Loopear con while
-let i = 0;
+// let i = 0;
 
 while (i<mascotas.length) {
     console.log(mascotas[i]);
@@ -59,9 +59,9 @@ while (i<mascotas.length) {
 
         /////////////////////////////////// resultado.push (variable)
 
-    let i = 0
+    let i = 0;
     let number3 = ['1','2','3','4','5','6'];
-    let number4= ['2'];
+    let number4 = ['2'];
         
         
     let number1 = ['1000','2','100','1','200']
@@ -74,7 +74,7 @@ while (i<mascotas.length) {
 
 function adivinar (arrayL, num) {
     let resultado = [];
-    for (let i=0; i < arrayL.length: i++) {
+    for (let i=0; i < arrayL.length; i++) {
         console.log ()
     }
     return resultado;
