@@ -31,6 +31,11 @@
     // expect(result).toBe(expected);
 // });
 
+// devhints.io   para comparar objetos, arrays etcetera
+// EN TERMINAL
+// PARA CORRER npm test
+// PARA VERIFICAR QUE ESTE TESTEADO npm test -- --coverage
+
 function division (e, f) {
     return e / f;
 }
